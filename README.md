@@ -97,11 +97,6 @@ The following functionality works on the tested Huawei MateBook D15:
 - Fingerprint verification through `fprintd`
 - Optional fingerprint authentication for `sudo`
 - Three fingerprint attempts before password fallback
-- Generic English PAM prompt:
-
-```text
-Place your finger on the fingerprint reader
-```
 
 This remains beta software. It has not undergone production-scale biometric certification or independent security auditing.
 
